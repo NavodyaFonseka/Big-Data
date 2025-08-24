@@ -38,6 +38,6 @@ o	Predictive Modeling:
 	Models used: Random Forest, Gradient Boosting, Logistic Regression.
 
 
-TPlease find all scripts and code files (both .ipynb and .html) in the Google Drive folder.
+Please find all scripts and code files (both .ipynb and .html) in the Google Drive folder.
 
 https://drive.google.com/drive/folders/1xhzjHZuBPdfJnDJZEPMc0TElC1S5PlVm?usp=sharing
